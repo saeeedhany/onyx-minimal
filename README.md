@@ -13,10 +13,6 @@ Compatible with **BetterDiscord** and **Vencord / Vesktop**.
 
 ![OnyxMinimalOverview](./assets/overview.png)
 
-```md
-![Onyx Minimal preview](preview.png)
-```
-
 ## Installation
 
 ### BetterDiscord
